@@ -6,7 +6,6 @@ import Cake from './Components/pages/Cake'
 import Contact from './Components/pages/Contact'
 import Blog from './Components/pages/Blog'
 import { Route, Router, Routes } from 'react-router-dom'
-import Layout from './Components/HOC/Layout'
 
 
 function App() {
